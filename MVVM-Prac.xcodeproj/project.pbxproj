@@ -222,6 +222,7 @@
 		C993BA4D2A2473DB00E36205 = {
 			isa = PBXGroup;
 			children = (
+				C91DFC1A2A25802500430D12 /* README.md */,
 				C993BA582A2473DB00E36205 /* MVVM-Prac */,
 				C993BA572A2473DB00E36205 /* Products */,
 			);
@@ -249,7 +250,6 @@
 				C993BA5B2A2473DB00E36205 /* ContentView.swift */,
 				C91DFBD32A248C5500430D12 /* Resource */,
 				C993BA5F2A2473DB00E36205 /* Preview Content */,
-				C91DFC1A2A25802500430D12 /* README.md */,
 			);
 			path = "MVVM-Prac";
 			sourceTree = "<group>";
